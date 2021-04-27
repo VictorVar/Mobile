@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Mi turno"  android:id="@+id/firtsfragment" android:icon="@drawable/ic_home"/>
+    <item android:title="Turnos" android:id="@+id/secondfragment" android:icon="@drawable/ic_baseline_people_outline_24" />
+</menu>
